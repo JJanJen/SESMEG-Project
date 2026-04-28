@@ -1,0 +1,21 @@
+body {
+  background: #f3f6fb;
+}
+
+.app-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #14213d, #0077b6);
+}
+
+.form-card {
+  max-width: 430px;
+  border-radius: 18px;
+}
+
+.card {
+  border-radius: 18px;
+}
+
+textarea {
+  min-height: 90px;
+}
